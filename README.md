@@ -183,7 +183,14 @@ Ensure you have only one <BrowserRouter> in index.js.
 
 Inside other components, you should only use <Routes> and <Route>, not another <BrowserRouter>.
 
+User Dashboard
+![image](https://github.com/user-attachments/assets/d43e55cf-4bd3-4790-89ca-a164170aa0fd)
 
+Admin panel
+![image](https://github.com/user-attachments/assets/c23a49ff-2e1a-42d9-8417-4f0630d2cd84)
+
+Calendar
+![image](https://github.com/user-attachments/assets/c6dccac9-c9c5-484c-8ecc-3722a7197092)
 
 
 
